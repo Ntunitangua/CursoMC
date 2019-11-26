@@ -65,8 +65,8 @@ public class Categoria implements Serializable {
 			return false;
 		return true;
 	}
-	
+	/*
 	public String toString () {
 		return (id+".  "+nome );
-	} 
+	} */
 }
